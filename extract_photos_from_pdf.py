@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import fitz  # PyMuPDF
 import os
 import argparse
